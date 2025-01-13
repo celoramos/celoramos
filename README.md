@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu me chamo Marcelo!
 
-<!--
-**celoramos/celoramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software apaixonado por resolver problemas com código e aprender novas tecnologias. 
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
+- 🌱 Sempre explorando: **Clean Code**, **Arquitetura de Software** e **Desenvolvimento Ágil**.
+- 🔍 Focado em criar soluções robustas e escaláveis para problemas complexos.
+- 📚 Inspirado pelos princípios dos livros **"Código Limpo"** e **"Arquitetura Limpa"**.
+- 🎯 Objetivo: Tornar-me um desenvolvedor back-end e contribuir para projetos que causem impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- **E-mail**: celoramos.dev@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/marcelo-ramos-895944217/]
+
+🤝 Estou aberto a colaborações em projetos e estágios!
