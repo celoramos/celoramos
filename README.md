@@ -10,6 +10,6 @@
 
 ## 📫 Como me encontrar
 - **E-mail**: celoramos.dev@gmail.com
-- **LinkedIn**: linkedin.com/in/marcelo-ramos-895944217/
+- **LinkedIn**: https://www.linkedin.com/in/marcelo-ramos-895944217/
 
 🤝 Estou aberto a colaborações em projetos e estágios!
