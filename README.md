@@ -3,14 +3,14 @@
 </p>
 
 ## 🌟 Sobre mim
-- 🌱 Sempre explorando: **Clean Code**, **Arquitetura de Software** e **Desenvolvimento Ágil**.
-- 🔍 Focado em criar soluções robustas e escaláveis para problemas complexos.
-- 📚 Inspirado pelos princípios dos livros **"Código Limpo"** e **"Arquitetura Limpa"**.
-- 🎯 Objetivo: Tornar-me um desenvolvedor back-end e contribuir para projetos que causem impacto real.
+🌱 Sempre explorando: **Clean Code**, **Arquitetura de Software** e **Desenvolvimento Ágil**  
+🔍 Focado em criar soluções robustas e escaláveis para problemas complexos  
+📚 Inspirado pelos princípios dos livros **"Código Limpo"** e **"Arquitetura Limpa"**  
+🎯 Objetivo: Tornar-me um desenvolvedor back-end e contribuir para projetos que causem impacto real  
 
 ## 📫 Como me encontrar
-- **E-mail**: celoramos.dev@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/marcelo-ramos-895944217/  
+**E-mail**: celoramos.dev@gmail.com  
+**LinkedIn**: https://www.linkedin.com/in/marcelo-ramos-895944217/  
 
 🤝 Estou aberto a colaborações em projetos e estágios!
 
