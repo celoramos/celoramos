@@ -18,7 +18,7 @@
   <img
       align="left"
       alt="Github Stats"
-      height="200"
+      height="150"
       style="padding-right: 20px;"
       src="https://github-readme-stats.vercel.app/api?username=celoramos&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"
   />
@@ -26,7 +26,7 @@
   <img
       align="left"
       alt="Most Used Languages"
-      height="200"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=celoramos&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=5"
   />
 </p>
