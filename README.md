@@ -1,6 +1,6 @@
-# 👋 Olá, eu me chamo Marcelo!
-
-🎓 Estudante de Engenharia de Software apaixonado por resolver problemas com código e aprender novas tecnologias. 
+<p float="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=abd200&width=520&height=55&lines=Hello%2C+World!" alt="Typing SVG" /></a>
+</p>
 
 ## 🌟 Sobre mim
 - 🌱 Sempre explorando: **Clean Code**, **Arquitetura de Software** e **Desenvolvimento Ágil**.
@@ -10,9 +10,10 @@
 
 ## 📫 Como me encontrar
 - **E-mail**: celoramos.dev@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/marcelo-ramos-895944217/
+- **LinkedIn**: https://www.linkedin.com/in/marcelo-ramos-895944217/  
 
 🤝 Estou aberto a colaborações em projetos e estágios!
+
 <p align="center">
   <img
       align="left"
