@@ -19,7 +19,7 @@
       align="left"
       alt="Github Stats"
       height="177"
-      style="padding-right: 20px;"
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api?username=celoramos&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"
   />
 
